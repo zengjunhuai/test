@@ -1,7 +1,10 @@
 # test
 ###### 文档引用：https://github.com/anuraghazra/github-readme-stats
 
-[[![Star History Chart](https://api.star-history.com/svg?repos=star-history/star-history&type=Date)](https://github.com/zengjunhuai/test)](https://star-history.com/#zengjunhuai/test&Date)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zengjunhuai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zengjunhuai/test&Date)](https://star-history.com/#star-history/star-history&Date)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
