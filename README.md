@@ -2,7 +2,7 @@
 ###### 文档引用：https://github.com/anuraghazra/github-readme-stats
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zengjunhuai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zengjunhuai)](https://github.com/zengjunhuai/test)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zengjunhuai/test&Date)](https://star-history.com/#star-history/star-history&Date)
 
